@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "nuklear.h": "c",
+        "unistd.h": "c",
+        "gtk.h": "c",
+        "webkitwebview.h": "c",
+        "webkit2.h": "c",
+        "webkitapplicationinfo.h": "c",
+        "gtkbutton.h": "c",
+        "gtkapplication.h": "c",
+        "gtkwidgetpaintable.h": "c",
+        "gtkwidget.h": "c",
+        "gtkmediafile.h": "c",
+        "gtkmediacontrols.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
