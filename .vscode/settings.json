@@ -12,7 +12,8 @@
         "gtkwidget.h": "c",
         "gtkmediafile.h": "c",
         "gtkmediacontrols.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "curl.h": "c"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }

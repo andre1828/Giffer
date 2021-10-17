@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <gtk-3.0/gtk/gtk.h>
 
 static void
@@ -23,7 +24,7 @@ int main(int argc, char *argv[])
     gtk_container_add(GTK_CONTAINER(window), vbox);
 
     // animated gif
-    GdkPixbufAnimation *pixbuf_animation = gdk_pixbuf_animation_new_from_file("/home/andre/Projects/giffer/kermit-dance.gif", NULL);
+    GdkPixbufAnimation *pixbuf_animation = gdk_pixbuf_animation_new_from_file("kermit-dance.gif", NULL);
 
     GtkImage *gif = (GtkImage *)gtk_image_new();
 
